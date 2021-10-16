@@ -1,0 +1,133 @@
+
+.c-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2%;
+    background-color: white;
+    
+   
+   
+  
+}
+.heading{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    height: 10vh;
+    border-radius: 30px;
+    background: #D38845;
+    background: -webkit-linear-gradient(top left, #D38845, #CA4B07);
+    background: -moz-linear-gradient(top left, #D38845, #CA4B07);
+    background: linear-gradient(to bottom right, #D38845, #CA4B07);
+    color: white;
+    font-size: 60px;
+    
+}
+.ctittle{
+    color: white;
+}
+.software{
+    margin-left: 8%;
+}
+.langtittle{
+    position: absolute;
+    left: 5%;
+    top:28%;
+    font-weight: 800!important;
+   
+}
+.desccard{
+    margin-left: -3%;
+    margin-top: 10%;
+    font-size: 130px !important;
+}
+.desccard .para{
+    font-size: 130px !important;
+}
+.hrlogo,.codcheflogo{
+    height: 40px;
+    width: 50px;
+   margin-right: 20px;
+   object-fit: contain;
+   cursor: pointer;
+    
+}
+.codcheflogo{
+    
+    width: 80px;
+}
+.secondary{
+    display: flex;
+    align-items: center;
+    width: 85%;
+    
+    margin-top: 5%;
+   
+}
+.practice{
+    font-weight: 700;
+    margin-left: 70%;
+}
+.logo-container{
+    display: flex;
+    margin-right: 10px;
+}
+.gotStuck{
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 2%;
+}
+.supportcontainer{
+    display: flex;
+
+}
+.support{
+    display: flex;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    
+}
+.gfg{
+    margin-top: 7px;
+    width: 250px;
+}
+.stack{
+    margin-left: 40px;
+    margin-top: -4px;
+}
+.docs{
+    height: 50px;
+    margin-top: 50px;
+}
+.moderate{
+    display: flex;
+    align-items: center;
+    
+}
+.med{
+    margin-right: 20px;
+}
+.barclass{
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 50px;
+    
+    width: 80vw;
+}
+.bar-header{
+    margin-bottom: 10px;
+}

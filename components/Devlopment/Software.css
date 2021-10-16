@@ -1,0 +1,11 @@
+.softcontainer{
+    display: flex;
+    
+}
+.imgsrc{
+    object-fit: contain;
+}
+.softwarecards{
+    display: flex;
+    margin-left: 3.5%;
+}

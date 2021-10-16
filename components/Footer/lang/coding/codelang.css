@@ -1,0 +1,13 @@
+.codingcontainer{
+    width: 100%;
+    display: flex;
+    
+    flex-direction: column;
+   
+    padding-top: 2%;
+}
+.head{
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+

@@ -1,0 +1,61 @@
+.card {
+  text-align: center !important;
+  margin: 2vw !important;
+}
+
+.overflow {
+  margin-top: 2%;
+}
+
+.cardm {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.cardb {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 40vw;
+}
+
+.cardt {
+  text-align: left;
+  padding: 1%;
+  margin: 1%;
+  font-size: 3vw;
+}
+
+.tagl {
+  text-align: left;
+  padding: 1%;
+  margin: 1%;
+  width: inherit;
+}
+
+.bn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 8%;
+}
+
+.bn button {
+  padding: 1vw;
+  width: 15vw;
+  height: 10vh;
+  color: aliceblue;
+}
+
+.btnp1 {
+  background: #009abf;
+}
+
+.btnp2 {
+  background: yellowgreen;
+}
+
+.btnp3 {
+  background: rgb(199, 32, 32);
+}
