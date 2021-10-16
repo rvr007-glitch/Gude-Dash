@@ -1,2 +1,2 @@
 # Guide-Dash
-A project for education for new commer
+A proper guide for education for new commer
