@@ -1,0 +1,44 @@
+.main {
+  position: relative;
+  z-index: -10;
+}
+
+.imgs {
+  width: 100vw;
+  height: 88vh;
+}
+
+.text-over {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  width: 100vw;
+  height: 90vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: black;
+  opacity: 0.4;
+  -webkit-background-clip: content-box;
+}
+
+.text-over p {
+  font-size: 2vw;
+}
+
+.Get {
+  text-align: center;
+  margin: 1%;
+  width: 30%;
+  padding: 1rem;
+  font-weight: 700;
+  font-size: 2vw;
+  border: 1.5px solid aliceblue;
+}
+
+.main:hover .text-over {
+  opacity: 1;
+  cursor: pointer;
+}
