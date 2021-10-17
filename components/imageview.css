@@ -1,0 +1,11 @@
+.imgrescontainer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.r{
+    height: 620px;
+    width: 40vw;
+    margin-top: 3%;
+}

@@ -1,0 +1,75 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dev {
+  padding: 1% 10% 10% 10%;
+}
+.title-dev {
+  font-family: "Times New Roman", Times, serif;
+  /* color: #009dbf;
+  background-color: rgb(228, 225, 225); */
+  background: #d38845;
+  text-align: center;
+  padding: 0.5rem;
+
+  background: -webkit-linear-gradient(top left, #d38845, #ca4b07);
+
+  background: -moz-linear-gradient(top left, #d38845, #ca4b07);
+
+  background: linear-gradient(to bottom right, #d38845, #ca4b07);
+
+  color: aliceblue;
+}
+.section-1 {
+  padding: 2% 0 5% 0;
+}
+.text {
+ 
+  line-height: 1.5em;
+  font-size: 1vw;
+  font-style: normal;
+}
+.h4-webdev-dev {
+  text-align: left;
+}
+.graphics1-webdev-dev {
+  padding: 10%;
+  height: 23em;
+  width: 37em;
+}
+.front-end-graph-webdev-dev {
+  padding: 7% 0 7% 7%;
+  width: 100%;
+  height: 100%;
+}
+.front-end-logo-webdev-dev {
+  height: 10%;
+  width: 10%;
+  margin: 2%;
+  transform: scale(1.4);
+}
+.front-end-webdev-dev {
+  margin-bottom: 5%;
+}
+.Heading-webdev-dev {
+  color: #009dbf;
+  
+}
+.buttons-webdev-dev {
+  color: white;
+  background-color: #009dbf;
+  padding: 12px 28px;
+  border-radius: 8px;
+}
+.Roadmap-webdev-dev {
+  height: 37%;
+  width: 73%;
+}
+.ide{
+  font-size: 2vw;
+  font-weight: 700;
+}
+.a{
+  margin-bottom: 2.5%;
+}

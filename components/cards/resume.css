@@ -1,0 +1,76 @@
+
+.resumcard{
+   margin-left: 15%;
+ margin-top: 20px;
+  height: 43rem !important;
+  width:70vw;
+  
+}
+.resumcard:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253);
+}
+.card-body{
+    padding: 3rem,0!important;
+}
+.card-text{
+    font-size: .9rem;
+    padding: 0.4rem 1.9rem;
+    
+}
+.overflow{
+    overflow: hidden;
+}
+.container-fluid .row{
+    padding-top: 6rem;
+}
+.container-fluid{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.card-img-tops{
+    height: 300px;
+    width: 300px;
+ 
+    border-radius: 50%;
+    object-fit: contain;
+    transform: scale(1);
+    transition: transform 0.5s ease;
+}
+.card-img-tops:hover{
+    transform: scale(1.2);
+
+}
+.btn{
+    color: orange !important;
+    border-color: orange !important;
+}
+.btn:hover{
+    background-color: orange!important;
+    color: aliceblue !important;
+    
+    
+}
+.company{
+    color: orange;
+}
+.span-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.like-container{
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+}
+.card-title{
+    margin-right: 25px;
+    
+}
+.like{
+    margin-top: 5px;
+}

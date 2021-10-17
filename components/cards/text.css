@@ -1,0 +1,37 @@
+
+.card{
+    
+  height: 20rem !important;
+  width: 75rem !important;
+  
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253);
+}
+.card-body{
+    padding: 3rem,0!important;
+}
+.card-text{
+    font-size: .9rem;
+    padding: 0.4rem 1.9rem;
+    
+}
+
+
+
+
+
+.btn{
+    color: #5165fc !important;
+    border-color: #5165fc !important;
+}
+.btn:hover{
+    background-color: #5165fc!important;
+    color: aliceblue !important;
+    
+    
+}
+p{
+    font-weight: 600 !important;
+    font-size: 40px;
+}

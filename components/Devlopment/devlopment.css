@@ -1,0 +1,21 @@
+
+.devlopcontainer{
+    width: 100%;
+    display: flex;
+    
+    flex-direction: column;
+   
+    padding-top: 2%;
+}
+.hproj{
+   margin-bottom: 1%;
+    margin-left: 10%;
+}
+.prcontainer{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 1%;
+}
+.ptittle{
+    color: aliceblue;
+}

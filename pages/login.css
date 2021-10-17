@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    height: 400px;
+    width: 400px;
+    display: flex;
+}
+.bg-img{
+  
+    background: url("https://i.ibb.co/MRLtRVh/ian-dooley-DJ7b-Wa-Gwks-unsplash-1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
